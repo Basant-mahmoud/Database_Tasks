@@ -1,0 +1,6 @@
+*.bak 
+bin/ 
+obj/ 
+*.user 
+*.suo 
+*.log 
